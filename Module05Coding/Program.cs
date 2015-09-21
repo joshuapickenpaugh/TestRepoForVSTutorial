@@ -1,6 +1,5 @@
 ﻿//Joshua Pickenpaugh, September 21st, 2015
 //IN2017 Adv.C# Module 05 excersise.
-//Added this line for testing GITHUB.
 
 using System;
 using System.Collections.Generic;
